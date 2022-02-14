@@ -1,0 +1,8 @@
+.card-list{
+    width:85vw; /* The vw unit is the relative unit to the size of the browser window. */
+    margin: 0 auto; /* top and bottom margins are 0 the right and left margins are auto */
+    display: grid; /* inline-grid on an element */
+    grid-template-columns: 1fr 1fr 1fr 1fr; /* fractional unit. The 4 columns each take up the same amount of space */
+    grid-gap:20px; /* It  defines the size of the gap between the rows and columns in a grid layout */
+
+}
