@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-world/static/css/main.013947fd.css",
+    "main.js": "/monster-world/static/js/main.0cf9c009.js",
+    "static/js/787.f3d7924f.chunk.js": "/monster-world/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/monster-world/index.html",
+    "main.013947fd.css.map": "/monster-world/static/css/main.013947fd.css.map",
+    "main.0cf9c009.js.map": "/monster-world/static/js/main.0cf9c009.js.map",
+    "787.f3d7924f.chunk.js.map": "/monster-world/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013947fd.css",
+    "static/js/main.0cf9c009.js"
+  ]
+}
